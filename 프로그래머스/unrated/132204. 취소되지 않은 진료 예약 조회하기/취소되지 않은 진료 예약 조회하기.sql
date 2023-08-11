@@ -8,7 +8,8 @@
       
 #       JOIN DOCTOR D ON A.MDDR_ID=D.DR_ID
 #       JOIN PATIENT P ON A.PT_NO=P.PT_NO
-# ORDER BY A.APNT_NO ASC
+# ORDER BY A.APNT_NO ASC 
+# 다른 컬럼을 사용해서 오답이었던것.
 
 
 
