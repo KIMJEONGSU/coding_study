@@ -1,3 +1,5 @@
+# 테스트케이스 13-20번이 실패가 나온 이유는 유클리드를 사용했기 때문이다. 해당 문제에서는 맨해튼거리를 이용해서 구해야한다. 
+
 import math
 def solution(numbers, hand):
     answer = ''
