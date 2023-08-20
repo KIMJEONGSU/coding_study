@@ -1,3 +1,8 @@
 # coding_study
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtn8536)](https://solved.ac/wjdtn8536/)
+### programmers
+* SQL 문제풀이 완료
+* https://programmers.co.kr/
+
+### hackerrank
+* https://www.hackerrank.com
